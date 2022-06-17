@@ -1,1 +1,5 @@
-hi hello
+git satus
+git add .
+git log
+git commit -m "name"
+git push -u origin master
